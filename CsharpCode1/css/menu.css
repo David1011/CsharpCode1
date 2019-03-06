@@ -1,0 +1,55 @@
+.menubg
+{
+	background:url(../images/bigmenubg.gif) repeat-x;height:76px;color:#fff;width:980px;
+	text-align:center;
+}
+
+.bigmenu{font-weight:bold;text-align:center;width:196px;}
+.bigmenu a
+{
+	 font-family:黑体;line-height:150%;color:#fff;text-align:center;
+}
+.bigmenu a:hover{text-decoration:none;}
+.ment12 a
+{
+	text-decoration:none;color:#fff;	
+	line-height:180%;font-weight:normal;
+}
+.ment12 a:hover
+{
+	color:#f00;text-decoration:underline;
+}
+.mentfav
+{
+	width:120px;
+}
+.mentfav a{color:yellow;}
+.homesearchcontain
+{
+     width:980px;margin-left:auto;margin-right:auto;clear:both;
+    padding-bottom:3px;margin-bottom:3px;border:1px solid #ccc;background:#f8f8f8;
+}
+/*search*/
+.homesearchbody
+{
+    text-align:left;line-height:180%;line-height:200%;padding:5px;
+}
+.homesearchtitle{font-size:14px;font-weight:bold;}
+/*头条*/
+.headline
+{
+    font-size:20px;font-weight:bold;font-family:黑体;
+    text-align:center;line-height:200%;padding:3px;
+}
+.headline a{color:#d80100;}
+.todaynewsitem
+{
+    line-height:180%;font-size:14px;
+}
+.todaynewsitem a{color:#000;text-decoration:underline;}
+.todaynewtitle
+{
+    line-height:180%;font-size:14px;width:70px;
+}
+
+
